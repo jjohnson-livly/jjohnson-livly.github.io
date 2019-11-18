@@ -1,7 +1,8 @@
 # jjohnson-livly.github.io
 
-
 [livly://login](livly://login)
+
+[livly://home](livly://home)
 
 [livly://](livly://)
 
